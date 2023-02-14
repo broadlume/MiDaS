@@ -205,6 +205,7 @@ Test configuration
 Speed: 22 FPS
 
 ### Changelog
+* [Feb 2023] MiDaS v3.1 is on Replicate, check the web demo and API here [![Replicate](https://replicate.com/cjwbw/midas/badge)](https://replicate.com/cjwbw/midas) 
 
 * [Dec 2022] Released MiDaS v3.1:
     - New models based on 5 different types of transformers ([BEiT](https://arxiv.org/pdf/2106.08254.pdf), [Swin2](https://arxiv.org/pdf/2111.09883.pdf), [Swin](https://arxiv.org/pdf/2103.14030.pdf), [Next-ViT](https://arxiv.org/pdf/2207.05501.pdf), [LeViT](https://arxiv.org/pdf/2104.01136.pdf))
